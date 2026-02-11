@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Candy Paint",
+  "base_artist": "ノーマニ",
+  "createdAt": "2026-02-11T12:03:53.343581Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Candy Paint",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/01_Candy_Paint_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Candy Paint",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/02_Candy_Paint_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Candy Paint (feat. Bun B)",
+      "artist": "Kodak Black feat. Bun B",
+      "has_synced": true,
+      "path": "select/03_Candy_Paint_(feat._Bun_B)_Kodak_Black_feat._Bun_B.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Candy Paint (feat. Bun B)",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/04_Candy_Paint_(feat._Bun_B)_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Candy Paint & Gold Teeth",
+      "artist": "Waka Flocka Flame feat. Ludacris & Bun B",
+      "has_synced": true,
+      "path": "select/05_Candy_Paint_&_Gold_Teeth_Waka_Flocka_Flame_feat._Ludacris_&_Bun_B.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Candy Paint & Gold Teeth (Feat. Bun B & Ludacris)",
+      "artist": "Waka Flocka Flame",
+      "has_synced": true,
+      "path": "select/06_Candy_Paint_&_Gold_Teeth_(Feat._Bun_B_&_Ludacris)_Waka_Flocka_Flame.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Candy Paint",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/07_Candy_Paint_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "<3 (ft. bandmanfari  & lil candy paint)",
+      "artist": "Lil Tracy",
+      "has_synced": false,
+      "path": "select/08_3_(ft._bandmanfari_&_lil_candy_paint)_Lil_Tracy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Candy Paint",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/09_Candy_Paint_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Candy Paint",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/10_Candy_Paint_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "That Candy Paint",
+      "artist": "E-40 feat. Bun B & Slim Thug",
+      "has_synced": false,
+      "path": "select/11_That_Candy_Paint_E-40_feat._Bun_B_&_Slim_Thug.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "That Candy Paint",
+      "artist": "Bun B/E-40/Slim Thug",
+      "has_synced": false,
+      "path": "select/12_That_Candy_Paint_Bun_B_E-40_Slim_Thug.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Candy Paint",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/13_Candy_Paint_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "That Candy Paint",
+      "artist": "E‐40 feat. Bun B & Slim Thug",
+      "has_synced": false,
+      "path": "select/14_That_Candy_Paint_E‐40_feat._Bun_B_&_Slim_Thug.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Candy Paint",
+      "artist": "Bone Thugs-n-Harmony",
+      "has_synced": true,
+      "path": "select/15_Candy_Paint_Bone_Thugs-n-Harmony.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Candy Paint & Gold Teeth (feat. Ludacris & Bun B)",
+      "artist": "Waka Flocka Flame feat. Ludacris & Bun B",
+      "has_synced": false,
+      "path": "select/16_Candy_Paint_&_Gold_Teeth_(feat._Ludacris_&_Bun_B)_Waka_Flocka_Flame_feat._Ludacris_&_Bun_B.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Candy Paint & Gold Teeth",
+      "artist": "Waka Flocka Flame feat. Ludacris & Bun B",
+      "has_synced": false,
+      "path": "select/17_Candy_Paint_&_Gold_Teeth_Waka_Flocka_Flame_feat._Ludacris_&_Bun_B.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Candy Paint",
+      "artist": "Normani",
+      "has_synced": false,
+      "path": "select/pl_01_Candy_Paint_Normani.txt"
+    }
+  ]
+}
